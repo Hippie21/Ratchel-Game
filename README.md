@@ -22,7 +22,7 @@ release-c while mouth hold : spit item.
 
 -----------------------------------------------------------------------------------------------------------------
 
-sound      : not implemented yet...
+sound      : implemented!
 
 background : not implemented yet...
 
